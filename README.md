@@ -8,7 +8,7 @@ Building modern web applications with a focus on quality, usability and maintain
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a software engineer with experience across multiple areas of software development.
 
@@ -24,7 +24,7 @@ I enjoy creating intuitive user interfaces, solving complex engineering problems
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -70,7 +70,7 @@ Corporate analytics dashboard with data visualization and reporting.
 
 ---
 
-## 🌱 Currently
+## Currently
 
 - Improving React & TS/JS expertise
 - Learning system design and architecture
@@ -79,7 +79,7 @@ Corporate analytics dashboard with data visualization and reporting.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Telegram: @askar_alimbekov
 - LinkedIn: in progress
