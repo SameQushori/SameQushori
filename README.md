@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm Askar 👋
-
 ### Frontend Developer • Mobile Development • QA
 
 Building modern web applications with a focus on quality, usability and maintainable architecture.
