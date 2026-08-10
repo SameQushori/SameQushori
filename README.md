@@ -234,7 +234,7 @@ Studied programming, algorithms, Java, C#, databases, SQL, Android development, 
 
 ## Let's build something useful
 
-I'm open to **Frontend Developer**, **React Developer**, and **Junior Software Engineer** opportunities.
+I'm open to **Frontend Developer**, **React Developer**, and **Middle Software Engineer** opportunities.
 
 [![Telegram](https://img.shields.io/badge/Message_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/askar_alimbekov)
 [![Email](https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimbekovaskar9@gmail.com)
