@@ -124,29 +124,60 @@ Platform for managing corporate hackathons, teams, applications, and projects.
 
 ## Featured project
 
-### 🧠 Insight — Emotional Well-being Tracker
+<div align="center">
 
-An offline Android application for monitoring a user's emotional well-being. Designed and developed independently as a graduation project.
+<a href="https://github.com/SameQushori/pulseops">
+  <img width="88" src="https://raw.githubusercontent.com/SameQushori/pulseops/main/public/pulseops-mark.svg" alt="PulseOps logo" />
+</a>
 
-**Key features:**
+### [PulseOps — Incident Intelligence Console](https://github.com/SameQushori/pulseops)
 
-- Daily mood and emotion tracking
-- Emotion intensity and context selection
-- Personal notes and entry history
-- Emotional trigger analysis
-- Weekly and personality assessments
-- Result charts and personalized insights
-- Activity streaks and reminders
-- Self-help exercises
-- Data backup and restoration
-- PDF report export
-- Fully offline operation
+**A production-style operations workspace for monitoring service health and managing incidents end to end.**
 
-The application includes **11 psychological assessments**, including GAD-7, PHQ-9, PSS-10, SWLS, Big Five, Rosenberg Self-Esteem Scale, and Self-Compassion Scale.
+[![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-Pages_+_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
-**Architecture:** `MVVM` `Repository Pattern` `ViewModel` `LiveData`
+</div>
 
-**Stack:** `Java` `Android SDK` `Room` `SQLite` `WorkManager` `MPAndroidChart`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Product experience
+
+- Service-focused monitoring with distinct telemetry and SLOs
+- Real provider status aggregation for GitHub, Cloudflare, and npm
+- Deterministic incident simulation from degradation to recovery
+- Searchable incident workspace, timelines, owners, and notes
+- Complete English and Russian interface
+
+</td>
+<td width="50%" valign="top">
+
+#### Engineering depth
+
+- Strict TypeScript with feature-oriented architecture
+- Redux Toolkit and RTK Query state boundaries
+- Zod validation at every API transport boundary
+- Hono + Drizzle ORM + Cloudflare D1 backend
+- Responsive, keyboard-accessible UI with automated tests
+
+</td>
+</tr>
+</table>
+
+```text
+Live status feeds → Pages Function → validation → RTK Query → operations UI
+Incident actions  → Hono API       → Drizzle ORM → Cloudflare D1
+```
+
+<div align="center">
+
+[![Explore PulseOps](https://img.shields.io/badge/Explore_PulseOps-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SameQushori/pulseops)
+
+</div>
 
 ---
 
