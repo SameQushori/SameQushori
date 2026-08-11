@@ -32,22 +32,6 @@ My background in software testing and Android development helps me approach prod
 
 ---
 
-## Experience
-
-### Frontend Developer · Gazprom Digital Solutions
-
-`October 2025 — January 2026`
-
-Contributed to three internal corporate applications:
-
-- **AI Knowledge Assistant** — chat interface, document uploads, API integration, generation and error states
-- **SurveyPro** — survey constructor, access control, Firebase integration, and analytics
-- **Hackathon Platform** — registration, project submissions, moderation, and admin workflows
-
-`React` `TypeScript` `Redux Toolkit` `Firebase` `Axios` `Vite`
-
----
-
 ## Featured Project
 
 <div align="center">
