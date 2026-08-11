@@ -72,7 +72,7 @@ Contributed to three internal corporate applications:
 
 ### See PulseOps in action
 
-👉 [![Open Live Demo](https://img.shields.io/badge/OPEN_LIVE_DEMO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://samequshori.github.io/PulseOps-Incident-Console/) 👈
+👉 [![Open Live Demo](https://img.shields.io/badge/OPEN_LIVE_DEMO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://pulseops-850.pages.dev/) 👈
 
 </div>
 
