@@ -1,177 +1,72 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=210&section=header&text=Askar%20Alimbekov&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" alt="Askar Alimbekov" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Askar%20Alimbekov&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" alt="Askar Alimbekov" />
 
-<a href="https://github.com/SameQushori">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+TypeScript;Building+reliable+web+applications;Turning+ideas+into+useful+products" alt="Typing animation" />
-</a>
+<h3>Frontend Developer · React · TypeScript</h3>
 
-<br>
-
-I build responsive and reliable web applications with thoughtful user flows, clean interfaces, and robust API integrations.
-
-<br><br>
+<p>
+I build reliable web applications with clear user flows,<br>
+robust API integrations, and maintainable architecture.
+</p>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@askar__alimbekov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/askar_alimbekov)
 [![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimbekovaskar9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SameQushori-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SameQushori)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I'm a **Frontend Developer** with commercial experience building internal corporate applications using **React** and **TypeScript**.
+Frontend developer with commercial experience building internal corporate products using **React** and **TypeScript**.
 
-I have contributed to an AI knowledge assistant, an employee survey platform, and a corporate hackathon management system. My work includes responsive interfaces, REST API integration, authentication, role-based access, forms, file uploads, admin panels, analytics, and data visualization.
+I focus on:
 
-I also have a strong technical background in **Android development with Java** and commercial software testing experience. This helps me think beyond individual screens, account for edge cases, and understand the complete product development lifecycle.
+- Responsive, accessible interfaces
+- REST API integration and application state
+- Authentication and role-based access
+- Admin panels, analytics, and complex forms
+- Reliable loading, error, and empty states
 
-<div align="center">
-
-```text
-Requirements → User flows → Development → API integration → Testing → Release
-```
-
-</div>
+My background in software testing and Android development helps me approach products beyond individual screens—with attention to edge cases, data consistency, and maintainability.
 
 ---
 
-## What I do
+## Experience
 
-- Build responsive interfaces with React and TypeScript
-- Transform requirements into clear user flows
-- Integrate frontend applications with REST APIs
-- Implement authentication and role-based access
-- Develop forms, tables, filters, and admin dashboards
-- Handle loading, error, empty, and success states
-- Create analytics pages and data visualizations
-- Work with Firebase services and relational databases
-- Collaborate with developers, analysts, and QA engineers
+### Frontend Developer · Gazprom Digital Solutions
 
----
-
-## Commercial experience
-
-### Frontend Developer
-
-**Gazprom Digital Solutions** · Industry placement  
 `October 2025 — January 2026`
 
-Worked as part of a development team on internal corporate web applications.
+Contributed to three internal corporate applications:
 
-<table>
-<tr>
-<td width="33%" valign="top">
+- **AI Knowledge Assistant** — chat interface, document uploads, API integration, generation and error states
+- **SurveyPro** — survey constructor, access control, Firebase integration, and analytics
+- **Hackathon Platform** — registration, project submissions, moderation, and admin workflows
 
-### 🤖 AI Knowledge Assistant
-
-Corporate AI chat for employee learning and information retrieval from a document-based knowledge base.
-
-**My contribution:**
-
-- Conversational interface
-- Document upload
-- REST API integration
-- AI generation states
-- Responsive layouts
-- Error handling
-
-`React` `TypeScript` `Axios`
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 SurveyPro
-
-Platform for creating, running, and analyzing employee surveys.
-
-**My contribution:**
-
-- Survey constructor
-- Forms and validation
-- Role-based access
-- Organizer workspace
-- Analytics dashboards
-- Firebase integration
-
-`React` `Redux Toolkit` `Firebase`
-
-</td>
-<td width="33%" valign="top">
-
-### 🚀 Hackathon Platform
-
-Platform for managing corporate hackathons, teams, applications, and projects.
-
-**My contribution:**
-
-- Registration flows
-- Project submission
-- Admin interface
-- Application moderation
-- Analytics screens
-- Responsive states
-
-`React` `TypeScript` `Vite`
-
-</td>
-</tr>
-</table>
+`React` `TypeScript` `Redux Toolkit` `Firebase` `Axios` `Vite`
 
 ---
 
-## Featured project
+## Featured Project
 
 <div align="center">
 
 <a href="https://github.com/SameQushori/pulseops">
-  <img width="88" src="https://raw.githubusercontent.com/SameQushori/pulseops/main/public/pulseops-mark.svg" alt="PulseOps logo" />
+  <img width="82" src="https://raw.githubusercontent.com/SameQushori/pulseops/main/public/pulseops-mark.svg" alt="PulseOps logo" />
 </a>
 
 ### [PulseOps — Incident Intelligence Console](https://github.com/SameQushori/pulseops)
 
-**A production-style operations workspace for monitoring service health and managing incidents end to end.**
-
-[![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-Pages_+_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+**A production-style workspace for monitoring service health and managing incidents end to end.**
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Product experience
-
-- Service-focused monitoring with distinct telemetry and SLOs
-- Real provider status aggregation for GitHub, Cloudflare, and npm
-- Deterministic incident simulation from degradation to recovery
-- Searchable incident workspace, timelines, owners, and notes
-- Complete English and Russian interface
-
-</td>
-<td width="50%" valign="top">
-
-#### Engineering depth
-
-- Strict TypeScript with feature-oriented architecture
-- Redux Toolkit and RTK Query state boundaries
-- Zod validation at every API transport boundary
-- Hono + Drizzle ORM + Cloudflare D1 backend
-- Responsive, keyboard-accessible UI with automated tests
-
-</td>
-</tr>
-</table>
-
-```text
-Live status feeds → Pages Function → validation → RTK Query → operations UI
-Incident actions  → Hono API       → Drizzle ORM → Cloudflare D1
-```
+- Live provider status aggregation for GitHub, Cloudflare, and npm
+- Incident timelines, ownership, notes, search, and deterministic simulations
+- Strict TypeScript with Redux Toolkit, RTK Query, and Zod validation
+- Hono API with Drizzle ORM and Cloudflare D1
+- Responsive, keyboard-accessible English and Russian interface
 
 <div align="center">
 
@@ -226,54 +121,15 @@ Incident actions  → Hono API       → Drizzle ORM → Cloudflare D1
 
 ---
 
-## Engineering mindset
-
-My software testing background helps me approach development with attention to:
-
-- Positive, negative, and boundary scenarios
-- API behavior and server responses
-- Regression risks
-- Data consistency
-- Clear error handling
-- User-facing application states
-- Product reliability
-- Maintainable implementation
-
-I use AI tools for prototyping, code analysis, debugging, refactoring, and learning while retaining control over architecture and final implementation.
-
----
-
-## Education
-
-**Ufa College of Radioelectronics, Telecommunications and Security**  
-`2022 — 2026`
-
-Software and mobile application development.
-
-Studied programming, algorithms, Java, C#, databases, SQL, Android development, application architecture, user interface development, and software testing.
-
----
-
-## Languages
-
-- Russian — Native
-- English — B1
-
----
-
 <div align="center">
 
-## Let's build something useful
+### Open to Frontend and React opportunities
 
-I'm open to **Frontend Developer**, **React Developer**, and **Middle Software Engineer** opportunities.
+**Russian — Native · English — B1**
 
-[![Telegram](https://img.shields.io/badge/Message_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/askar_alimbekov)
+[![Telegram](https://img.shields.io/badge/Message_me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/askar_alimbekov)
 [![Email](https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimbekovaskar9@gmail.com)
 
-<br><br>
-
-**Thanks for visiting my profile!**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=110&section=footer" alt="Footer animation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=100&section=footer" alt="Footer" />
 
 </div>
