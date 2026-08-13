@@ -32,7 +32,7 @@ My background in software testing and Android development helps me approach prod
 
 ---
 
-## Featured Project
+## Featured Projects
 
 <div align="center">
 
