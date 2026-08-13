@@ -2,11 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Askar%20Alimbekov&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" alt="Askar Alimbekov" />
 
-<h3>Frontend Developer · React · TypeScript</h3>
+<h3>Frontend Developer/Product Engineer · React · TypeScript</h3>
 
 <p>
 I build reliable web applications with clear user flows,<br>
-robust API integrations, and maintainable architecture.
+robust API integrations, and maintainable architecture for 3 years.
 </p>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@askar__alimbekov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/askar_alimbekov)
