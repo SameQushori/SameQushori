@@ -56,7 +56,41 @@ My background in software testing and Android development helps me approach prod
 
 ### See PulseOps in action
 
-👉 [![Open Live Demo](https://img.shields.io/badge/OPEN_LIVE_DEMO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://pulseops-850.pages.dev/) 👈
+[![Open Live Demo](https://img.shields.io/badge/OPEN_LIVE_DEMO-06B6D4?style=for-the-badge&logo=cloudflare&logoColor=white)](https://pulseops-850.pages.dev/) 
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SameQushori/PulseOps-Incident-Console)
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://tablelint.pages.dev">
+  <img
+    width="82"
+    src="https://raw.githubusercontent.com/SameQushori/TableLint/master/public/tablelint-mark.svg"
+    alt="TableLint logo"
+  />
+</a>
+
+### [TableLint — Private CSV Validation Workspace](https://github.com/SameQushori/TableLint)
+
+**Browser-first workspace for validating, cleaning, and exporting CSV files without uploading sensitive data.**
+
+</div>
+
+- Detects missing values, duplicates, malformed emails, invalid numbers and dates
+- Processes CSV files up to 50 MB entirely inside the browser
+- Supports schema inference, configurable validation rules, inline editing, and safe batch fixes
+- Uses Web Workers and virtualization to keep large datasets responsive
+- Provides undo/redo, local session recovery, cleaned CSV export, and structured JSON reports
+- Responsive and accessible interface available in English and Russian
+
+<div align="center">
+
+### Try TableLint
+
+[![Live Demo](https://img.shields.io/badge/OPEN_LIVE_DEMO-06B6D4?style=for-the-badge&logo=cloudflare&logoColor=white)](https://tablelint.pages.dev)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SameQushori/TableLint)
 
 </div>
 
